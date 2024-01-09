@@ -10,4 +10,5 @@ RUN apk add -U --no-cache \
     curl \
     tcpdump \
     netcat-openbsd \
-    bind-tools
+    bind-tools \
+    gcompat
